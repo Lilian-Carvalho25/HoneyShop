@@ -4,6 +4,8 @@ Landing page de uma lojinha linda e aconchegante de mel
 ## ⚙ Funcionalidades 
 - Página linda, responsiva e bem construída. <br> <br>
 
+<img src="https://i.imgur.com/35Ly3nc.png" width="620px" height="310px" />
+
 ## 🖥️ Tecnologias utilizadas:<br>
 ###
 
